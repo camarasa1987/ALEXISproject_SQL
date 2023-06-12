@@ -1,6 +1,7 @@
 ## Project_SQL
 
-![blockbuster]()
+![blockbuster](https://github.com/camarasa1987/ALEXISproject_SQL/blob/main/Blockbuster.png)
+
 
 # Creación de base de datos 
 
