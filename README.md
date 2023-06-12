@@ -1,13 +1,13 @@
-## Project_SQL
+# Project_SQL
 
 ![blockbuster](https://github.com/camarasa1987/ALEXISproject_SQL/blob/main/Blockbuster.png)
 
 
-# Creación de base de datos 
+## Creación de base de datos 
 
 Objetivo: Construir una base de datos a partir de 7 archivos csv y extraer información valiosa para relanzar el negocio Blockbuster.
 
-# He realizado los 3 siguientes pasos:
+## He realizado los 3 siguientes pasos:
 
 1) Limpieza CSV: Utilizando como lenguaje Python y valiéndome de librerías tales como Pandas y Numpy he procedido a limpiar los 7 data frames para poder visualizarlos con la información homogénea.
 
